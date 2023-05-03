@@ -1,0 +1,5 @@
+project: chess
+target: fen_to_board
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_fen_to_board
